@@ -1,0 +1,1687 @@
+﻿t_b accounts
+ t_b dima134582
+  t_b group
+  t_e group
+  t_b remote
+  t_e remote
+  t_b shards
+   t_b Вечный Зов
+    t_b avatars
+     t_b (identifier, 2803193)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+        i_k_b data
+         t_b 1
+          class=l"ENGINEER"
+          name=l"статы"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919130"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 1
+        i_k_e data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 2803193)
+     t_b (identifier, 4492007)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+        i_k_b data
+         t_b 1
+          class=l"WARLOCK"
+          name=l"Статы"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 1
+        i_k_e data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 4492007)
+     t_b (identifier, 6367560)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+        i_k_b data
+         t_b 1
+          class=l"PRIEST"
+          name=l"Статы"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919119"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919119"
+              2=u"r739935436"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919119"
+              2=u"r739935436"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919119"
+              2=u"r739935434"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 1
+        i_k_e data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 6367560)
+    t_e avatars
+    t_b group
+    t_e group
+   t_e Вечный Зов
+  t_e shards
+ t_e dima134582
+ t_b eckert2021@bk.ru
+  t_b group
+  t_e group
+  t_b remote
+  t_e remote
+  t_b shards
+   t_b Рассвет
+    t_b avatars
+     t_b (identifier, 41656)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+        i_k_b data
+         t_b 1
+          class=l"STALKER"
+          name=l"Пве"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739935435"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739935437"
+              2=u"r739920074"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739935432"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739935432"
+              2=u"r739919277"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739935435"
+              2=u"r739919277"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 1
+        i_k_e data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 41656)
+    t_e avatars
+    t_b group
+    t_e group
+   t_e Рассвет
+  t_e shards
+ t_e eckert2021@bk.ru
+ t_b flame47@list.ru
+  t_b group
+  t_e group
+  t_b remote
+  t_e remote
+  t_b shards
+   t_b Рассвет
+    t_b avatars
+     t_b (identifier, 35671)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+        i_k_b data
+         t_b 1
+          class=l"NECROMANCER"
+          name=l"ПВП ДД"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739919281"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919119"
+              2=u"r739919277"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739919281"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739919281"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 1
+         t_b 2
+          class=l"NECROMANCER"
+          name=l"ПВЕ ДД"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739920074"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935437"
+              2=u"r739920074"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919119"
+              2=u"r739919277"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739920074"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919119"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 2
+        i_k_e data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 35671)
+    t_e avatars
+    t_b group
+    t_e group
+   t_e Рассвет
+  t_e shards
+ t_e flame47@list.ru
+ t_b kyller125
+  t_b group
+  t_e group
+  t_b remote
+  t_e remote
+  t_b shards
+   t_b Вечный Зов
+    t_b avatars
+     t_b (identifier, 4469587)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+        i_k_b data
+         t_b 1
+          class=l"ENGINEER"
+          name=l"ПВЕ статы"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739935435"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739935435"
+              2=u"r739920074"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 1
+         t_b 2
+          class=l"ENGINEER"
+          name=l"ПВП недо статы"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919129"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 2
+         t_b 3
+          class=l"ENGINEER"
+          name=l"ПВЕ С осторожкой"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739935435"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739935435"
+              2=u"r739920074"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 3
+         t_b 4
+          class=l"ENGINEER"
+          name=l"ПВЕ дд статы"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739935432"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935432"
+              2=u"r739920074"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739935432"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739935432"
+              2=u"r739920074"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739935435"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739935435"
+              2=u"r739920074"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739935437"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919128"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 4
+         t_b 5
+          class=l"WARLOCK"
+          name=l"Демон Стремло"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919127"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739920074"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919127"
+              2=u"r739920074"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919130"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919130"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919127"
+              2=u"r739935436"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 5
+         t_b 6
+          class=l"WARLOCK"
+          name=l"Демон ИК бож"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739920074"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935432"
+              2=u"r739920074"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739935432"
+              2=u"r739920074"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739935434"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739935434"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739920074"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919130"
+              2=u"r739920074"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919125"
+              2=u"r739920074"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 6
+         t_b 7
+          class=l"WARLOCK"
+          name=l"Демон с шопом на силу крита"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739935432"
+              2=u"r739935436"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919130"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919130"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919130"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 7
+         t_b 8
+          class=l"WARLOCK"
+          name=l"ПВП демонолог"
+          t_b stats
+           i_k_b stats
+            t_b 0
+             i_k_b 0
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 0
+            t_e 0
+            t_b 1
+             i_k_b 1
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 1
+            t_e 1
+            t_b 2
+             i_k_b 2
+              1=u"r739919119"
+              2=u"r739919277"
+             i_k_e 2
+            t_e 2
+            t_b 3
+             i_k_b 3
+              1=u"r739919119"
+              2=u"r739919277"
+             i_k_e 3
+            t_e 3
+            t_b 4
+             i_k_b 4
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 4
+            t_e 4
+            t_b 5
+             i_k_b 5
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 5
+            t_e 5
+            t_b 6
+             i_k_b 6
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 6
+            t_e 6
+            t_b 7
+             i_k_b 7
+              1=u"r739919119"
+              2=u"r739935436"
+             i_k_e 7
+            t_e 7
+            t_b 8
+             i_k_b 8
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 8
+            t_e 8
+            t_b 9
+             i_k_b 9
+              1=u"r739919124"
+              2=u"r739919277"
+             i_k_e 9
+            t_e 9
+            t_b 10
+             i_k_b 10
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 10
+            t_e 10
+            t_b 11
+             i_k_b 11
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 11
+            t_e 11
+            t_b 12
+             i_k_b 12
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 12
+            t_e 12
+            t_b 13
+             i_k_b 13
+              1=u"r739919124"
+              2=u"r739919222"
+             i_k_e 13
+            t_e 13
+            t_b 14
+             i_k_b 14
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 14
+            t_e 14
+            t_b 16
+             i_k_b 16
+              1=u"r739919125"
+              2=u"r739935436"
+             i_k_e 16
+            t_e 16
+            t_b 26
+             i_k_b 26
+              1=u"r739919125"
+              2=u"r739919277"
+             i_k_e 26
+            t_e 26
+           i_k_e stats
+          t_e stats
+         t_e 8
+        i_k_e data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 4469587)
+    t_e avatars
+    t_b group
+    t_e group
+   t_e Вечный Зов
+  t_e shards
+ t_e kyller125
+ t_b timkamania@mail.ru
+  t_b group
+  t_e group
+  t_b remote
+  t_e remote
+  t_b shards
+   t_b Рассвет
+    t_b avatars
+     t_b (identifier, 4280)
+      t_b ScriptUserMods_StatBuilds
+       t_b data
+       t_e data
+       remote_version=-1
+      t_e ScriptUserMods_StatBuilds
+     t_e (identifier, 4280)
+    t_e avatars
+    t_b group
+    t_e group
+   t_e Рассвет
+  t_e shards
+ t_e timkamania@mail.ru
+t_e accounts
+t_b global
+ t_b ScriptUserMods_StatManager
+  t_b data
+   t_b DnD:StatManager.ListButton
+    highPosX=-532
+    highPosY=-978
+    posX=531
+    posY=977
+   t_e DnD:StatManager.ListButton
+  t_e data
+  remote_version=-1
+ t_e ScriptUserMods_StatManager
+t_e global
+version=6
